@@ -1,0 +1,135 @@
+sound = {
+	name = "gri_Idle_001"
+	file = "gri/gri_idle_001.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Idle_002"
+	file = "gri/gri_idle_002.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Idle_003"
+	file = "gri/gri_idle_003.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Idle_004"
+	file = "gri/gri_idle_004.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Idle_005"
+	file = "gri/gri_idle_005.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Idle_006"
+	file = "gri/gri_idle_006.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Idle_007"
+	file = "gri/gri_idle_007.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Attack_001"
+	file = "gri/gri_attack_001.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Attack_002"
+	file = "gri/gri_attack_002.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Attack_003"
+	file = "gri/gri_attack_003.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Attack_004"
+	file = "gri/gri_attack_004.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Attack_005"
+	file = "gri/gri_attack_005.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Combat_001"
+	file = "gri/gri_combat_001.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Combat_002"
+	file = "gri/gri_combat_002.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Combat_003"
+	file = "gri/gri_combat_003.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Combat_004"
+	file = "gri/gri_combat_004.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Combat_005"
+	file = "gri/gri_combat_005.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Move_001"
+	file = "gri/gri_move_001.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Move_002"
+	file = "gri/gri_move_002.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Move_003"
+	file = "gri/gri_move_003.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Move_004"
+	file = "gri/gri_move_004.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Move_005"
+	file = "gri/gri_move_005.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Retreat_001"
+	file = "gri/gri_retreat_001.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Retreat_002"
+	file = "gri/gri_retreat_002.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Retreat_003"
+	file = "gri/gri_retreat_003.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Retreat_004"
+	file = "gri/gri_retreat_004.wav"
+	volume = 4
+}
+sound = {
+	name = "gri_Retreat_005"
+	file = "gri/gri_retreat_005.wav"
+	volume = 4
+}

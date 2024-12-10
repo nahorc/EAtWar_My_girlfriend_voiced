@@ -1,0 +1,85 @@
+soundeffect = {
+    name = "ROU_infantry_idle"
+    sounds = {
+		sound = gri_Idle_001
+		sound = gri_Idle_002
+		sound = gri_Idle_003
+		sound = gri_Idle_004
+		sound = gri_Idle_005
+        sound = gri_Idle_006
+        sound = gri_Idle_007
+	}
+	sounds = {
+		sound = gri_Idle_001
+		sound = gri_Idle_002
+		sound = gri_Idle_003
+		sound = gri_Idle_004
+		sound = gri_Idle_005
+        sound = gri_Idle_007
+	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 1.2
+	volume_random_offset = { 0.0 -0.25 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect = {
+    name = "ROU_infantry_neutral_combat"
+    sounds = {
+        sound = gri_Combat_001
+        sound = gri_Combat_002
+        sound = gri_Combat_003
+        sound = gri_Combat_004
+        sound = gri_Combat_005
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 1.2
+	volume_random_offset = { 0.0 -0.25 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect = {
+    name = "ROU_infantry_positive_combat"
+    sounds = {
+        sound = gri_Attack_001
+		sound = gri_Attack_002
+		sound = gri_Attack_003
+		sound = gri_Attack_004
+		sound = gri_Attack_005
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 1.2
+	volume_random_offset = { 0.0 -0.25 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect = {
+    name = "ROU_infantry_retreat"
+    sounds = {
+        sound = gri_Retreat_001
+		sound = gri_Retreat_002
+		sound = gri_Retreat_003
+		sound = gri_Retreat_004
+		sound = gri_Retreat_005
+	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 1.2
+	volume_random_offset = { 0.0 -0.25 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect = {
+    name = "ROU_infantry_move_out"
+    sounds = {
+        sound = gri_Move_001
+        sound = gri_Move_002
+        sound = gri_Move_003
+        sound = gri_Move_004
+        sound = gri_Move_005
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 1.2
+	volume_random_offset = { 0.0 -0.25 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
